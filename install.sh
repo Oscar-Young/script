@@ -2,7 +2,7 @@
 
 [ "${1}" == "" ] && echo '''
 Usage :
-./install.sh -list docker
+./install.sh -list
 ./install.sh -install docker
 ./install.sh -get docker
 '''
